@@ -1,0 +1,5 @@
+# Project 3a
+## Nick Miller
+
+Issues I had:
+I do not like working with Io. There's just no support and the documentation isn't very idiot-proof. I ran into issues with parentheses not matching on step 3, and the debugger only ever gave incorrect line numbers to look at. 
